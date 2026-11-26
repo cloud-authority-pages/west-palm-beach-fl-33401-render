@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: west-palm-beach-fl-33401
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
